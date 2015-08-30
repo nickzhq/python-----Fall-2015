@@ -1,0 +1,46 @@
+CASE #01£º
+Hi, what's your name?Houqi
+Hello Houqi! Let's play a game!
+Think of random number from 1 to 100, and I'll try to guess it!
+Is it 50 ?(yes/no)no
+Is it larger than 50 ?(yes/no)yes
+Is it 75 ?(yes/no)no
+Is it larger than 75 ?(yes/no)yes
+Is it 88 ?(yes/no)no
+Is it larger than 88 ?(yes/no)yes
+Is it 94 ?(yes/no)no
+Is it larger than 94 ?(yes/no)yes
+Is it 97 ?(yes/no)no
+Is it larger than 97 ?(yes/no)no
+Is it 96 ?(yes/no)no
+Is it larger than 96 ?(yes/no)no
+Is it 95 ?(yes/no)yes
+Yeey! I got it in 7 tries!
+Do you want to play one more?(yes/no)no
+Bye Bye!
+
+CASE #02£º
+Hi, what's your name?Houqi
+Hello Houqi! Let's play a game!
+Think of random number from 1 to 100, and I'll try to guess it!
+Is it 50 ?(yes/no)no
+Is it larger than 50 ?(yes/no)yes
+Is it 75 ?(yes/no)no
+Is it larger than 75 ?(yes/no)yes
+Is it 88 ?(yes/no)yes
+Yeey! I got it in 3 tries!
+Do you want to play one more?(yes/no)yes
+Is it 50 ?(yes/no)no
+Is it larger than 50 ?(yes/no)no
+Is it 25 ?(yes/no)no
+Is it larger than 25 ?(yes/no)no
+Is it 12 ?(yes/no)no
+Is it larger than 12 ?(yes/no)yes
+Is it 18 ?(yes/no)no
+Is it larger than 18 ?(yes/no)yes
+Is it 22 ?(yes/no)no
+Is it larger than 22 ?(yes/no)no
+Is it 20 ?(yes/no)yes
+Yeey! I got it in 6 tries!
+Do you want to play one more?(yes/no)no
+Bye Bye!
