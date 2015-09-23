@@ -1,0 +1,12 @@
+Please enter an non-negative integer number( -1 is exit ):0
+bunnyEars2(0): 0
+Please enter an non-negative integer number( -1 is exit ):1
+bunnyEars2(1): 2
+Please enter an non-negative integer number( -1 is exit ):2
+bunnyEars2(2): 5
+Please enter an non-negative integer number( -1 is exit ):3
+bunnyEars2(3): 7
+Please enter an non-negative integer number( -1 is exit ):4
+bunnyEars2(4): 10
+Please enter an non-negative integer number( -1 is exit ):-1
+Bye Bye
