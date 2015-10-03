@@ -1,0 +1,6 @@
+**CAUTION: I run this program on Windows platform**
+
+Please type the path:E:\
+Please type the file name:output-Ass#01.txt
+E:\UNH-Course\Fall2015\python\HW#04\output-Ass#01.txt
+bye bye

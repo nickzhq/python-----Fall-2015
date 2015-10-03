@@ -1,0 +1,6 @@
+**CAUTION: I run this program on Windows platform**
+
+These operations on dictionary need 1001 ms
+These operations on shelve need 162127 ms
+
+# conclusion: The operations on dictionary is more faster than the operations on shelve.

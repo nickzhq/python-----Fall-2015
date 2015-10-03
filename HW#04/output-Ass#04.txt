@@ -1,0 +1,23 @@
+**CAUTION: I run this program on Windows platform**
+
+# FIRST RUN£º
+Enter a name:Nick
+Enter the age:25
+Enter the country:CHINA
+Read data from pickle text
+Information:  ('Nick', '25', 'CHINA')
+Read data from shelve
+Information:  ('Nick', '25', 'CHINA')
+Bye Bye
+
+# SECOND RUN:
+Enter a name:John
+Enter the age:26
+Enter the country:USA
+Read data from pickle text
+Information:  ('Nick', '25', 'CHINA')
+Information:  ('John', '26', 'USA')
+Read data from shelve
+Information:  ('Nick', '25', 'CHINA')
+Information:  ('John', '26', 'USA')
+Bye Bye

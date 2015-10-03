@@ -1,0 +1,4 @@
+This is python world,
+Hello!
+password= 01123Asd
+Bye Bye!

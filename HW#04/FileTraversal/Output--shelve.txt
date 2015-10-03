@@ -1,0 +1,26 @@
+** In this program, there's a limit characters of path in window OS, the number of limit is 200 characters,
+   so that I HAVE TO DELETE the fortune20.txt and forune20.log files**
+**CAUTION: I run this program on windows platform**
+
+CASE 1:
+this program begins at  2015-10-03 12:46:18.022833
+query:down or
+Performing OR search for: {'down'}
+The time before search ;  2015-10-03 12:46:23.856216
+Found at: E:\UNH-Course\Fall2015\python\newHW04\HW#04\FileTraversal\fortune1\fortune2\fortune3\fortune4\fortune5\fortune6\fortune7\fortune8\fortune9\fortune10\fortune11\fortune12\fortune13\fortune13.log
+The time after search :  2015-10-03 12:46:23.859206
+Execution time: 2990 ms
+this program ends at  2015-10-03 12:46:23.859206
+the costing of time is  0:00:05.836373
+
+CASE 2:
+this program begins at  2015-10-03 12:53:41.356583
+query:is and will
+Performing AND search for: {'will', 'is'}
+The time before search ;  2015-10-03 12:53:45.671376
+Found at: E:\UNH-Course\Fall2015\python\newHW04\HW#04\FileTraversal\fortune1\fortune2\fortune3\fortune4\fortune5\fortune6\fortune7\fortune8\fortune9\fortune10\fortune10.txt
+Found at: E:\UNH-Course\Fall2015\python\newHW04\HW#04\FileTraversal\fortune1\fortune2\fortune3\fortune4\fortune5\fortune6\fortune7\fortune8\fortune9\fortune10\fortune10.log
+The time after search :  2015-10-03 12:53:45.674381
+Execution time: 3005 ms
+this program ends at  2015-10-03 12:53:45.674381
+the costing of time is  0:00:04.317798
