@@ -9,14 +9,16 @@ import pickle
 import shelve
 
 def process_data( name1 , name2 ):
+	'''
 	# This codes use pickle technique
-	'''f = open( name1 ,'rb')
+	f = open( name1 ,'rb')
 	try:
 		data = pickle.load( f )
 	finally:
 		f.close()
 
-	return data'''
+	return data
+	'''
 
 	#This codes use shelve technique
 	f = shelve.open( name2 )

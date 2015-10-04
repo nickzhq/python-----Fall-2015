@@ -3,24 +3,30 @@
 **CAUTION: I run this program on windows platform**
 
 CASE 1:
-this program begins at  2015-10-03 12:46:18.022833
+this program begins at  2015-10-04 10:18:20.601805
 query:down or
 Performing OR search for: {'down'}
-The time before search ;  2015-10-03 12:46:23.856216
+The time before search ;  2015-10-04 10:18:35.572992
 Found at: E:\UNH-Course\Fall2015\python\newHW04\HW#04\FileTraversal\fortune1\fortune2\fortune3\fortune4\fortune5\fortune6\fortune7\fortune8\fortune9\fortune10\fortune11\fortune12\fortune13\fortune13.log
-The time after search :  2015-10-03 12:46:23.859206
-Execution time: 2990 ms
-this program ends at  2015-10-03 12:46:23.859206
-the costing of time is  0:00:05.836373
+The last modified time:  1411435530.0
+The size of file is:  894
+The time after search :  2015-10-04 10:18:35.608016
+Execution time: 35024 ms
+this program ends at  2015-10-04 10:18:35.608016
+the costing of time is  0:00:15.006211
 
 CASE 2:
-this program begins at  2015-10-03 12:53:41.356583
+this program begins at  2015-10-04 10:19:30.881011
 query:is and will
 Performing AND search for: {'will', 'is'}
-The time before search ;  2015-10-03 12:53:45.671376
+The time before search ;  2015-10-04 10:19:38.508957
 Found at: E:\UNH-Course\Fall2015\python\newHW04\HW#04\FileTraversal\fortune1\fortune2\fortune3\fortune4\fortune5\fortune6\fortune7\fortune8\fortune9\fortune10\fortune10.txt
+The last modified time:  1411435530.0
+The size of file is:  493
 Found at: E:\UNH-Course\Fall2015\python\newHW04\HW#04\FileTraversal\fortune1\fortune2\fortune3\fortune4\fortune5\fortune6\fortune7\fortune8\fortune9\fortune10\fortune10.log
-The time after search :  2015-10-03 12:53:45.674381
-Execution time: 3005 ms
-this program ends at  2015-10-03 12:53:45.674381
-the costing of time is  0:00:04.317798
+The last modified time:  1411435530.0
+The size of file is:  836
+The time after search :  2015-10-04 10:19:38.511959
+Execution time: 3002 ms
+this program ends at  2015-10-04 10:19:38.511959
+the costing of time is  0:00:07.630948

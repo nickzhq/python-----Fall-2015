@@ -4,7 +4,7 @@ __author__ = 'Nick'
 
 # Houqi Zuo
 # Homework#04 -- Python
-
+import os
 from datetime import datetime
 
 def search( data_list ):
@@ -36,8 +36,8 @@ def search( data_list ):
 	print( "The time before search ; ", dt1)
 	#start_time = time.monotonic()*10000
 
-	# This codes use pickle technique
 	'''
+	# This codes use pickle technique
 	# perform search
 	# AND perform
 	if (boolOperator):
@@ -52,6 +52,8 @@ def search( data_list ):
 			if ( None not in mydict.values() ):
 				# get current time
 				print("Found at:", tuple_in_list[0] )
+				print("The last modified time: ", os.path.getmtime( tuple_in_list[0] ) )
+				print("The size of file is: ", os.path.getsize( tuple_in_list[0] ) )
 				break
 	# OR perform
 	else:
@@ -62,9 +64,10 @@ def search( data_list ):
 				if ( key in tuple_in_list[1] ):
 					# get current time
 					print("Found at:" ,tuple_in_list[0])
+					print("The last modified time: ", os.path.getmtime( tuple_in_list[0] ) )
+					print("The size of file is: ", os.path.getsize( tuple_in_list[0] ) )
 					break
 	'''
-
 	# This codes use shelve technique
 	# perform search
 	# AND perform
@@ -81,6 +84,8 @@ def search( data_list ):
 			if ( None not in mydict.values() ):
 				# get current time
 				print("Found at:", i )
+				print("The last modified time: ", os.path.getmtime( i ) )
+				print("The size of file is: ", os.path.getsize( i ) )
 	# OR perform
 	else:
 		# search one line by one line
@@ -90,6 +95,8 @@ def search( data_list ):
 			for key in mydict.keys():
 				if ( key in word ):
 					print("Found at:" ,i)
+					print("The last modified time: ", os.path.getmtime( i ) )
+					print("The size of file is: ", os.path.getsize( i ) )
 					break
 	#end_time = time.monotonic() *10000.
 	dt2 = datetime.now()
