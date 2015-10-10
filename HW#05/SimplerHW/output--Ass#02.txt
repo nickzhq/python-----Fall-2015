@@ -1,0 +1,25 @@
+﻿**CAUTION: I run this code on MAC platform**
+
+Houqis-MacBook-Air:python-----Fall-2015 Nick$ python3 ass02.py
+
+Please enter the country code: CO
+
+Found it
+
+nativeName:  Colombia
+
+capital:  Bogotá
+
+Bye Bye
+
+Houqis-MacBook-Air:python-----Fall-2015 Nick$ python3 ass02.py
+
+Please enter the country code: XXX
+
+Didn't find it
+
+nativeName:  Colombia
+
+capital:  Bogotá
+
+Bye Bye
