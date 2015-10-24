@@ -1,0 +1,31 @@
+**I run this on window platform**
+
+I will give you 3 hints, guess what animal I am
+
+I have exceptional memory!
+Who am I!?: monkey
+Nope, try again!
+I have a long noise!
+Who am I!?: elephant
+You got it! I am  elephant
+
+I will give you 3 hints, guess what animal I am
+
+I am the biggest cat!
+Who am I!?: big cat
+Nope, try again!
+I come in black and white or orange and black!
+Who am I!?: pandan
+Nope, try again!
+I am a carnivores!
+Who am I!?: dragon
+Nope, try again!
+
+I'm out of hints! The answer is:  tiger
+
+I will give you 3 hints, guess what animal I am
+
+I use echo-location!
+Who am I!?: bat
+You got it! I am  bat
+Bye Bye

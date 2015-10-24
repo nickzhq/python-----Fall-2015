@@ -1,0 +1,17 @@
+**I run this code on Window platform **
+
+INTEGER DIVISIONS
+18 / 3 = 6
+CORRECT!
+0 / 0 = e
+Please enter Integers Only!
+0 / 0 = p
+Please enter Integers Only!
+18 / 2 = 6
+INCORRECT!
+14 / 2 = 7
+CORRECT!
+6 / 2 = 3
+CORRECT!
+9 / 3 = 
+Process finished with exit code -1
