@@ -1,0 +1,10 @@
+*** I run this codes on window platform***
+the content on web page:
+
+Disk read_time = 1397100040
+Disk write_time = 961004450
+memory available = 3424182272
+memory total = 8497942528
+
+the content on terminal:
+127.0.0.1 - - [09/Nov/2015 22:36:39] "GET / HTTP/1.1" 200 -
